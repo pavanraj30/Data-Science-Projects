@@ -1,6 +1,6 @@
 # Data-Science-Projects
 
-This repository contains various Data Science projects, including an **NBA Player Stats Explorer** app built using Python and the Streamlit framework. Below is an explanation of the NBA Player Stats Explorer app, which scrapes and analyzes NBA player statistics from Basketball Reference.
+This repository contains various Data Science projects, including a **Simple Stock Price App** and an **NBA Player Stats Explorer** app, both built using Python and the Streamlit framework. The Simple Stock Price App fetches historical stock data for Google using the yfinance library, while the NBA Player Stats Explorer scrapes and analyzes NBA player statistics from Basketball Reference.
 
 ## Simple Stock Price App
 
