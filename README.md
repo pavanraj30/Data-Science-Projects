@@ -2,6 +2,24 @@
 
 This repository contains various Data Science projects, including an **NBA Player Stats Explorer** app built using Python and the Streamlit framework. Below is an explanation of the NBA Player Stats Explorer app, which scrapes and analyzes NBA player statistics from Basketball Reference.
 
+## Simple Stock Price App
+
+This is a **Simple Stock Price App** built using Python and Streamlit. The app fetches historical stock data for Google (Alphabet Inc.) using the `yfinance` library and displays the **closing price** and **trading volume** over time.
+
+### Features
+
+- **Stock Data Fetching**: The app uses the `yfinance` library to retrieve historical stock data for Google (GOOGL).
+- **Date Range**: The app fetches stock data from May 31, 2010, to May 31, 2020.
+- **Line Charts**: The app displays interactive line charts showing:
+  - **Closing Price**: A time series of Google’s closing stock price.
+  - **Volume**: A time series of the trading volume for the stock.
+
+### Future Improvements
+
+- Add options for users to select different stocks.
+- Allow customization of the date range for the stock data.
+- Add additional financial metrics like moving averages or stock performance comparisons.
+
 ## NBA Player Stats Explorer App
 
 This project is a simple **NBA Player Stats Explorer** built using Python and the Streamlit web app framework. The app allows users to explore NBA player statistics for a given year by scraping data from [Basketball Reference](https://www.basketball-reference.com).
