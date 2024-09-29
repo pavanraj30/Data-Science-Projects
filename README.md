@@ -34,5 +34,17 @@ The app scrapes data from Basketball Reference for the selected year using the `
 - By clicking the "Intercorrelation Heatmap" button, the app generates a heatmap that shows the correlation between different numerical stats (e.g., points, assists, rebounds).
 - The heatmap is generated using Seaborn's `heatmap()` function, with a `coolwarm` colormap to visualize positive and negative correlations.
 
+### How to Run
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/pavanraj30/Data-Science-Projects.git
+   cd Data-Science-Projects
+2. Install the required dependencies:
+   pip3 install streamlit pandas seaborn matplotlib numpy
+3. Run the app:
+   streamlit run app.py
+4. Open your browser and go to the local address shown (usually http://localhost:8501).
+
 
 
